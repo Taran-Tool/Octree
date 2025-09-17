@@ -1,0 +1,46 @@
+{
+    "atlasName": "atlas1",
+    "atlasSize": 256,
+    "blocks": [
+        {
+            "blockId": 1,
+            "name": "Dirt",
+            "displayName": "Грязь",
+            "isTransparent": false,
+            "isSolid": true,
+            "faces": [
+                "all"
+            ]
+        },
+        {
+            "blockId": 2,
+            "name": "Soil",
+            "displayName": "Почва",
+            "isTransparent": false,
+            "isSolid": true,
+            "faces": [
+                "all"
+            ]
+        },
+        {
+            "blockId": 3,
+            "name": "Sand",
+            "displayName": "Песок",
+            "isTransparent": false,
+            "isSolid": false,
+            "faces": [
+                "all"
+            ]
+        },
+        {
+            "blockId": 4,
+            "name": "Stone",
+            "displayName": "Камень",
+            "isTransparent": false,
+            "isSolid": true,
+            "faces": [
+                "all"
+            ]
+        }
+    ]
+}

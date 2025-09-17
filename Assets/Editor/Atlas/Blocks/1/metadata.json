@@ -1,0 +1,13 @@
+{
+    "name": "Dirt",
+    "displayName": "Грязь",
+    "isTransparent": false,
+    "isParalax": false,
+    "isRefract": false,
+    "isReflect": false,
+    "isSolid": true,
+    "isLoose": false,
+    "isLiquid": false,
+    "isGas": false,
+    "isThrough": false
+}

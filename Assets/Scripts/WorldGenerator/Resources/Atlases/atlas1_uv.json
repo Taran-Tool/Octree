@@ -1,0 +1,48 @@
+{
+    "entries": [
+        {
+            "materialId": 1,
+            "uvData": {
+                "allFaces": {
+                    "x": 0.0,
+                    "y": 0.75,
+                    "width": 0.25,
+                    "height": 0.25
+                }
+            }
+        },
+        {
+            "materialId": 2,
+            "uvData": {
+                "allFaces": {
+                    "x": 0.25,
+                    "y": 0.75,
+                    "width": 0.25,
+                    "height": 0.25
+                }
+            }
+        },
+        {
+            "materialId": 3,
+            "uvData": {
+                "allFaces": {
+                    "x": 0.5,
+                    "y": 0.75,
+                    "width": 0.25,
+                    "height": 0.25
+                }
+            }
+        },
+        {
+            "materialId": 4,
+            "uvData": {
+                "allFaces": {
+                    "x": 0.75,
+                    "y": 0.75,
+                    "width": 0.25,
+                    "height": 0.25
+                }
+            }
+        }
+    ]
+}

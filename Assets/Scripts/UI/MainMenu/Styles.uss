@@ -1,0 +1,24 @@
+.panel {
+    display: flex;
+    left: 0;
+    right: auto;
+    position: relative;
+    top: 0;
+}
+
+.startbutton {
+    background-color: rgba(224, 224, 224, 0.77);
+    border-right-width: 4px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-right-color: rgba(236, 8, 8, 0.76);
+    background-position-y: center 0;
+    left: 0;
+    position: absolute;
+    top: 0;
+    right: auto;
+    bottom: auto;
+    align-items: stretch;
+    width: 100px;
+    height: 25px;
+}

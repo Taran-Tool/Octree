@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/MainMenu/Styles.uss?fileID=7433441132597879392&amp;guid=e0e71a5b27117f74d83d34ce84fda222&amp;type=3#Styles" />
+    <ui:VisualElement name="Panel" class="panel" style="flex-grow: 1; align-items: center; justify-content: space-around; align-self: stretch;">
+        <ui:Button text="Старт" name="startbutton" class="startbutton" style="-unity-text-align: middle-center;" />
+    </ui:VisualElement>
+</ui:UXML>

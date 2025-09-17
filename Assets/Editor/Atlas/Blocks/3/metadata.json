@@ -1,0 +1,13 @@
+{
+    "name": "Sand",
+    "displayName": "Песок",
+    "isTransparent": false,
+    "isParalax": false,
+    "isRefract": false,
+    "isReflect": false,
+    "isSolid": false,
+    "isLoose": true,
+    "isLiquid": false,
+    "isGas": false,
+    "isThrough": false
+}
